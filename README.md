@@ -1,13 +1,4 @@
-# ProgKGC: Progressive Structure-Enhanced Semantic Framework for Knowledge Graph Completion
-
-This repository contains the **official implementation** of the paper:
-
-> **ProgKGC: Progressive Structure-Enhanced Semantic Framework for Knowledge Graph Completion**  
-> Zhuang Li, Yingwen Wu, Yachao Yuan, Jin Wang  
-> Accepted at *ISWC 2025 (Research Track)*  
-
-ProgKGC introduces a **progressive training strategy** and a **bidirectional neighbor aggregation mechanism** to effectively fuse semantic and structural signals in knowledge graph completion (KGC) tasks.
-
+# DAREKGC
 ---
 
 ## 🔧 Features
